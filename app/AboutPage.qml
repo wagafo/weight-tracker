@@ -84,7 +84,7 @@ Page {
                         color:Qt.darker( UbuntuColors.green) }
                     ProgressionSlot {}
                 }
-                onClicked: {Qt.openUrlExternally('https://github.com/avi-software/weight-tracker')}
+                onClicked: {Qt.openUrlExternally('https://github.com/wagafo/weight-tracker')}
             }
 
             ListItem {
@@ -101,7 +101,7 @@ Page {
                         color:Qt.darker( UbuntuColors.green) }
                     ProgressionSlot {}
                 }
-                onClicked: {Qt.openUrlExternally('https://github.com/avi-software/weight-tracker/issues')}
+                onClicked: {Qt.openUrlExternally('https://github.com/wagafo/weight-tracker/issues')}
             }
             ListItem {
                 ListItemLayout {
@@ -127,7 +127,7 @@ Page {
                         SlotsLayout.position: SlotsLayout.Leading;
                         width: units.gu(3)
                     }
-                    title.text: i18n.tr("Author")
+                    title.text: i18n.tr("Original Author")
                     title.color:Qt.darker( UbuntuColors.green)
                     Label { text: "Avi Mar"
                         color:Qt.darker( UbuntuColors.green) }
@@ -148,7 +148,7 @@ Page {
                     title.color:Qt.darker( UbuntuColors.green)
                     ProgressionSlot {}
                 }
-                onClicked: Qt.openUrlExternally('scope://com.canonical.scopes.clickstore?q=avisoftware')
+                onClicked: Qt.openUrlExternally('https://open.uappexplorer.com/?sort=relevance&search=avisoftware')
             }
         }
 

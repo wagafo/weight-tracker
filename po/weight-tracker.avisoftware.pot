@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-24 20:08+0000\n"
+"POT-Creation-Date: 2018-02-28 19:03+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,7 +47,7 @@ msgid "GPL-3.0 License"
 msgstr ""
 
 #: ../app/AboutPage.qml:130
-msgid "Author"
+msgid "Original Author"
 msgstr ""
 
 #: ../app/AboutPage.qml:147
@@ -143,7 +143,7 @@ msgid "No weight today."
 msgstr ""
 
 #: ../app/MainPage.qml:12
-#: /home/avi/qt/ubuntu-touch/weight-tracker-build/po/weight-tracker.desktop.in.h:1
+#: /home/wgarcia/sources/ubports/weight-tracker/build/po/weight-tracker.desktop.in.h:1
 msgid "Weight Tracker"
 msgstr ""
 
@@ -427,7 +427,7 @@ msgstr ""
 msgid "Your weight is lower than recommended"
 msgstr ""
 
-#: /home/avi/qt/ubuntu-touch/weight-tracker-build/po/weight-tracker.desktop.in.h:2
+#: /home/wgarcia/sources/ubports/weight-tracker/build/po/weight-tracker.desktop.in.h:2
 msgid ""
 "Weight Tracker is is an app that allows you to track your weight, including "
 "BMI Status and more statistics."
