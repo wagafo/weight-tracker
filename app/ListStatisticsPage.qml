@@ -47,7 +47,7 @@ Page {
                 height: units.gu(4)
                 Label {
                     anchors { verticalCenter: parent.verticalCenter; left: parent.left; leftMargin: units.gu(2) }
-                    text: i18n.tr("Avarage weight:")
+                    text: i18n.tr("Average weight:")
                     font.bold: false
                     color:Qt.darker( UbuntuColors.green)
 
