@@ -1,0 +1,443 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-28 19:03+0000\n"
+"PO-Revision-Date: 2018-03-01 13:10+0100\n"
+"Last-Translator: advocatux <advocatux@airpost.net>\n"
+"Language-Team: UBports Spanish Team\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../app/AboutPage.qml:8
+msgid "About"
+msgstr "Acerca de"
+
+#: ../app/AboutPage.qml:64
+#, qt-format
+msgid "Weight Tracker %1 (Beta)"
+msgstr "Monitor de peso %1 (Beta)"
+
+#: ../app/AboutPage.qml:81
+msgid "Source Code"
+msgstr "Código fuente"
+
+#: ../app/AboutPage.qml:83 ../app/AboutPage.qml:100
+msgid "Github"
+msgstr "Github"
+
+#: ../app/AboutPage.qml:98
+msgid "Report bug"
+msgstr "Informar de un error"
+
+#: ../app/AboutPage.qml:114
+msgid "License"
+msgstr "Licencia"
+
+#: ../app/AboutPage.qml:116
+msgid "GPL-3.0 License"
+msgstr "Licencia GPL-3.0"
+
+#: ../app/AboutPage.qml:130
+msgid "Original Author"
+msgstr "Autor original"
+
+#: ../app/AboutPage.qml:147
+msgid "My other apps"
+msgstr "Mis otras aplicaciones"
+
+#: ../app/EmptyState.qml:26
+msgid ""
+"Insert new Weight\n"
+"by swiping up from\n"
+"the bottom of the screen."
+msgstr ""
+"Introduzca el nuevo peso\n"
+"arrastrando hacia arriba desde\n"
+"la parte inferior de la pantalla."
+
+#: ../app/GraphComponent.qml:27
+msgid "Not enough data to show a chart."
+msgstr "No hay datos suficientes para mostrar un gráfico."
+
+#: ../app/ListStatisticsPage.qml:12
+msgid "Weight statistics"
+msgstr "Estadísticas de peso"
+
+#: ../app/ListStatisticsPage.qml:50
+msgid "Avarage weight:"
+msgstr "Peso medio:"
+
+#: ../app/ListStatisticsPage.qml:58
+msgid "Average last week"
+msgstr "Media de la pasada semana"
+
+#: ../app/ListStatisticsPage.qml:69
+msgid "Average last month"
+msgstr "Media del pasado mes"
+
+#: ../app/ListStatisticsPage.qml:80
+msgid "Average last year"
+msgstr "Media del pasado año"
+
+#: ../app/ListStatisticsPage.qml:94
+msgid "Changes in weight:"
+msgstr "Cambios en el peso:"
+
+#: ../app/ListStatisticsPage.qml:102
+msgid "Changes last week"
+msgstr "Cambios la semana pasada"
+
+#: ../app/ListStatisticsPage.qml:113
+msgid "Changes last month"
+msgstr "Cambios el mes pasado"
+
+#: ../app/ListStatisticsPage.qml:124
+msgid "Changes last year"
+msgstr "Cambios el año pasado"
+
+#: ../app/ListStatisticsPage.qml:135
+msgid "Changes from start"
+msgstr "Cambios desde el principio"
+
+#: ../app/ListStatisticsPage.qml:149
+msgid "General:"
+msgstr "General:"
+
+#: ../app/ListStatisticsPage.qml:157
+msgid "The highest weight"
+msgstr "El peso más alto"
+
+#: ../app/ListStatisticsPage.qml:168
+msgid "The lowest weight"
+msgstr "El peso más bajo"
+
+#: ../app/ListStatisticsPage.qml:185 ../app/ListWeightPage.qml:70
+#: ../app/NewWeightComponent.qml:73 ../app/StatisticsComponent.qml:90
+#: ../app/WeightComponent.qml:180
+msgid "KG"
+msgstr "KG"
+
+#: ../app/ListStatisticsPage.qml:187 ../app/ListWeightPage.qml:72
+#: ../app/NewWeightComponent.qml:75 ../app/StatisticsComponent.qml:92
+#: ../app/WeightComponent.qml:182
+msgid "LB"
+msgstr "LB"
+
+#: ../app/ListWeightPage.qml:11
+msgid "Weight History"
+msgstr "Historial de peso"
+
+#: ../app/Main.qml:24
+#, qt-format
+msgid "Your weight today is %1"
+msgstr "Su peso hoy es %1"
+
+#: ../app/Main.qml:25
+msgid "No weight today."
+msgstr "No hay peso hoy."
+
+#: ../app/MainPage.qml:12
+#: /home/wgarcia/sources/ubports/weight-tracker/build/po/weight-tracker.desktop.in.h:1
+msgid "Weight Tracker"
+msgstr "Monitor de peso"
+
+#: ../app/MainPage.qml:21
+msgid "Info"
+msgstr "Información"
+
+#: ../app/MainPage.qml:29 ../app/SettingsView.qml:11
+msgid "Settings"
+msgstr "Configuración"
+
+#: ../app/MainPage.qml:37
+msgid "history"
+msgstr "historial"
+
+#: ../app/NewWeightComponent.qml:12
+msgid "Insert new weigth"
+msgstr "Introduzca nuevo peso"
+
+#: ../app/NewWeightComponent.qml:29
+msgid "Your Weight:"
+msgstr "Su peso:"
+
+#: ../app/NewWeightComponent.qml:31
+msgid "Leave empty to delete weight"
+msgstr "Dejar vacío para borrar peso"
+
+#: ../app/NewWeightComponent.qml:86
+msgid "Date:"
+msgstr "Fecha:"
+
+#: ../app/NewWeightComponent.qml:102
+msgid "Save"
+msgstr "Guardar"
+
+#: ../app/NewWeightComponent.qml:134 ../app/NewWeightComponent.qml:136
+msgid "Date exist"
+msgstr "La fecha existe"
+
+#: ../app/NewWeightComponent.qml:141
+msgid ""
+"On this date you already have a weight,\n"
+" do you want to update to the new weigth?"
+msgstr ""
+"En esta fecha ya tiene un peso,\n"
+" ¿quiere actualizar al nuevo peso?"
+
+#: ../app/NewWeightComponent.qml:143
+msgid "Are you sure you want to delete this entry?"
+msgstr "¿Seguro que quiere borrar esta entrada?"
+
+#: ../app/NewWeightComponent.qml:152 ../app/SettingsView.qml:292
+#: ../app/SettingsView.qml:333
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../app/NewWeightComponent.qml:159
+msgid "Update"
+msgstr "Actualizar"
+
+#: ../app/NewWeightComponent.qml:161 ../app/SettingsView.qml:281
+#: ../app/SettingsView.qml:324
+msgid "Delete"
+msgstr "Borrar"
+
+#: ../app/SettingsView.qml:49 ../app/UserComponent.qml:68
+msgid "KG/CM"
+msgstr "KG/CM"
+
+#: ../app/SettingsView.qml:50 ../app/UserComponent.qml:69
+msgid "LB/IN"
+msgstr "LB/IN"
+
+#: ../app/SettingsView.qml:84
+msgid "Older then month"
+msgstr "Mas antiguo que un mes"
+
+#: ../app/SettingsView.qml:85
+msgid "Older then 6 month"
+msgstr "Mas antiguo que 6 meses"
+
+#: ../app/SettingsView.qml:86
+msgid "Older then year"
+msgstr "Mas antiguo que un año"
+
+#: ../app/SettingsView.qml:87
+msgid "All history"
+msgstr "Todo el historial"
+
+#: ../app/SettingsView.qml:109
+msgid "User Settings:"
+msgstr "Configuración de usuario:"
+
+#: ../app/SettingsView.qml:118 ../app/UserComponent.qml:18
+msgid "User profile"
+msgstr "Perfil de usuario"
+
+#: ../app/SettingsView.qml:189
+msgid "General Settings:"
+msgstr "Configuración general:"
+
+#: ../app/SettingsView.qml:198 ../app/UserComponent.qml:215
+msgid "Units"
+msgstr "Unidades"
+
+#: ../app/SettingsView.qml:229
+msgid "Show on the Metric"
+msgstr "Mostrar en el sistema métrico"
+
+#: ../app/SettingsView.qml:245 ../app/SettingsView.qml:320
+msgid "Clear History"
+msgstr "Borrar historial"
+
+#: ../app/SettingsView.qml:277
+msgid "Delete user"
+msgstr "Borrar usuario"
+
+#: ../app/SettingsView.qml:278
+msgid "You can't delete the last user!"
+msgstr "¡No puede borrar el último usuario!"
+
+#: ../app/SettingsView.qml:278
+#, qt-format
+msgid "You'll delete %1 account"
+msgstr "Borrará la cuenta de %1"
+
+#: ../app/SettingsView.qml:321
+#, qt-format
+msgid "You'll delete %1 history"
+msgstr "Borrará el historial de %1"
+
+#: ../app/StatisticsComponent.qml:121 ../app/StatisticsComponent.qml:145
+msgid "last week"
+msgstr "semana pasada"
+
+#: ../app/StatisticsComponent.qml:122 ../app/StatisticsComponent.qml:127
+#: ../app/StatisticsComponent.qml:132
+#, qt-format
+msgid "Average %1"
+msgstr "Media %1"
+
+#: ../app/StatisticsComponent.qml:122 ../app/StatisticsComponent.qml:127
+#: ../app/StatisticsComponent.qml:132
+#, qt-format
+msgid ""
+"Your average weight\n"
+"in the %1"
+msgstr ""
+"Su peso medio\n"
+"en el %1"
+
+#: ../app/StatisticsComponent.qml:126 ../app/StatisticsComponent.qml:155
+msgid "last month"
+msgstr "mes pasado"
+
+#: ../app/StatisticsComponent.qml:131 ../app/StatisticsComponent.qml:165
+msgid "last year"
+msgstr "año pasado"
+
+#: ../app/StatisticsComponent.qml:136
+msgid "Your highest weight"
+msgstr "Su peso más alto"
+
+#: ../app/StatisticsComponent.qml:140
+msgid "Your lowest weight"
+msgstr "Su peso más bajo"
+
+#: ../app/StatisticsComponent.qml:147 ../app/StatisticsComponent.qml:157
+#: ../app/StatisticsComponent.qml:167 ../app/StatisticsComponent.qml:177
+#, qt-format
+msgid "You loss %1"
+msgstr "Perdió %1"
+
+#: ../app/StatisticsComponent.qml:150 ../app/StatisticsComponent.qml:160
+#: ../app/StatisticsComponent.qml:170 ../app/StatisticsComponent.qml:180
+#, qt-format
+msgid "You added %1"
+msgstr "Ganó %1"
+
+#: ../app/StatisticsComponent.qml:175
+msgid "from start"
+msgstr "desde el principio"
+
+#: ../app/UserComponent.qml:77
+msgid "Male"
+msgstr "Hombre"
+
+#: ../app/UserComponent.qml:78
+msgid "Female"
+msgstr "Mujer"
+
+#: ../app/UserComponent.qml:104
+msgid "It is your first use, insert your details to proceed"
+msgstr "Si es su primera vez, introduzca sus detalles para continuar"
+
+#: ../app/UserComponent.qml:113
+msgid "Your Name:"
+msgstr "Su nombre:"
+
+#: ../app/UserComponent.qml:132
+msgid "Your Age:"
+msgstr "Su edad:"
+
+#: ../app/UserComponent.qml:151
+msgid "Your Height:"
+msgstr "Su peso:"
+
+#: ../app/UserComponent.qml:169
+msgid "CM"
+msgstr "CM"
+
+#: ../app/UserComponent.qml:171
+msgid "IN"
+msgstr "IN"
+
+#: ../app/UserComponent.qml:180
+msgid "Gender"
+msgstr "Género"
+
+#: ../app/WeightComponent.qml:49
+msgid "Hi"
+msgstr "Hola"
+
+#: ../app/WeightComponent.qml:49
+msgid "Your last weight from "
+msgstr "Su último peso desde "
+
+#: ../app/WeightComponent.qml:234
+msgid "Your BMI"
+msgstr "Su BMI (índice de masa corporal)"
+
+#: ../app/WeightComponent.qml:277
+msgid "Very Severely Underweight"
+msgstr "Muy seriamente bajo el peso apropiado"
+
+#: ../app/WeightComponent.qml:280
+msgid "Severely Underweight"
+msgstr "Seriamente bajo el peso apropiado"
+
+#: ../app/WeightComponent.qml:283
+msgid "Underweight"
+msgstr "Bajo el peso apropiado"
+
+#: ../app/WeightComponent.qml:286
+msgid "Normal"
+msgstr "Normal"
+
+#: ../app/WeightComponent.qml:289
+msgid "Overweight"
+msgstr "Sobrepeso"
+
+#: ../app/WeightComponent.qml:292
+msgid "Obese"
+msgstr "Obeso"
+
+#: ../app/WeightComponent.qml:295
+msgid "Obese Class I"
+msgstr "Obeso Clase I"
+
+#: ../app/WeightComponent.qml:298
+msgid "Obese Class II"
+msgstr "Obeso Clase II"
+
+#: ../app/WeightComponent.qml:301
+msgid "Obese Class III"
+msgstr "Obeso Clase III"
+
+#: ../app/WeightComponent.qml:381
+msgid "Your weight increased from the last time"
+msgstr "Su peso ha aumentado desde la última vez"
+
+#: ../app/WeightComponent.qml:383
+msgid "Your weight decreased from last time"
+msgstr "Su peso se ha reducido desde la última vez"
+
+#: ../app/WeightComponent.qml:385
+msgid "Your weight same as last time"
+msgstr "Su peso se mantiene desde la última vez"
+
+#: ../app/WeightComponent.qml:387
+msgid "Your weight is higher than recommended"
+msgstr "Su peso es mayor que el recomendado"
+
+#: ../app/WeightComponent.qml:389
+msgid "Your weight is lower than recommended"
+msgstr "Su peso es menor que el recomendado"
+
+#: /home/wgarcia/sources/ubports/weight-tracker/build/po/weight-tracker.desktop.in.h:2
+msgid ""
+"Weight Tracker is is an app that allows you to track your weight, including "
+"BMI Status and more statistics."
+msgstr "" 
+"Monitor de peso es una aplicación que le permite monitorizar su peso, incluyendo "
+"su BMI (índice de masa corporal) y más estadísticas."
