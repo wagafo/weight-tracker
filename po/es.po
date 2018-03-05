@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-28 19:03+0000\n"
+"POT-Creation-Date: 2018-03-05 12:44+0000\n"
 "PO-Revision-Date: 2018-03-01 13:10+0100\n"
 "Last-Translator: advocatux <advocatux@airpost.net>\n"
 "Language-Team: UBports Spanish Team\n"
@@ -51,6 +51,11 @@ msgid "Original Author"
 msgstr "Autor original"
 
 #: ../app/AboutPage.qml:147
+#, fuzzy
+msgid "Current Author"
+msgstr "Autor original"
+
+#: ../app/AboutPage.qml:164
 msgid "My other apps"
 msgstr "Mis otras aplicaciones"
 
@@ -73,7 +78,8 @@ msgid "Weight statistics"
 msgstr "Estadísticas de peso"
 
 #: ../app/ListStatisticsPage.qml:50
-msgid "Avarage weight:"
+#, fuzzy
+msgid "Average weight:"
 msgstr "Peso medio:"
 
 #: ../app/ListStatisticsPage.qml:58
@@ -438,6 +444,6 @@ msgstr "Su peso es menor que el recomendado"
 msgid ""
 "Weight Tracker is is an app that allows you to track your weight, including "
 "BMI Status and more statistics."
-msgstr "" 
-"Monitor de peso es una aplicación que le permite monitorizar su peso, incluyendo "
-"su BMI (índice de masa corporal) y más estadísticas."
+msgstr ""
+"Monitor de peso es una aplicación que le permite monitorizar su peso, "
+"incluyendo su BMI (índice de masa corporal) y más estadísticas."

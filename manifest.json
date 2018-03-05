@@ -9,7 +9,7 @@
             "desktop": "weight-tracker.desktop"
         }
     },
-    "version": "0.5.1",
+    "version": "0.5.2",
     "maintainer": "Walter Garcia-Fontes <walter.garcia@upf.edu>",
     "framework": "ubuntu-sdk-15.04.4"
 }

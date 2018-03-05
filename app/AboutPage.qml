@@ -61,7 +61,7 @@ Page {
             Label {
                 id: name
                 height: implicitHeight + units.gu(3)
-                text: i18n.tr("Weight Tracker %1 (Beta)").arg("v0.5.1")
+                text: i18n.tr("Weight Tracker %1 (Beta)").arg("v0.5.2")
                 color:Qt.darker( UbuntuColors.green)
                 anchors.horizontalCenter: parent.horizontalCenter
                 textSize: Label.Large
@@ -139,6 +139,23 @@ Page {
             ListItem {
                 ListItemLayout {
                     Icon {
+                        name: "contact"
+                        color: Qt.darker(UbuntuColors.green)
+                        SlotsLayout.position: SlotsLayout.Leading;
+                        width: units.gu(3)
+                    }
+                    title.text: i18n.tr("Current Author")
+                    title.color:Qt.darker( UbuntuColors.green)
+                    Label { text: "Walter Garcia-Fontes"
+                        color:Qt.darker( UbuntuColors.green) }
+
+                    ProgressionSlot {}
+                }
+                onClicked: {Qt.openUrlExternally('http://puna.upf.edu')}
+            }
+            ListItem {
+                ListItemLayout {
+                    Icon {
                         name: "stock_application"
                         color: Qt.darker(UbuntuColors.green)
                         SlotsLayout.position: SlotsLayout.Leading;
@@ -148,7 +165,7 @@ Page {
                     title.color:Qt.darker( UbuntuColors.green)
                     ProgressionSlot {}
                 }
-                onClicked: Qt.openUrlExternally('https://open.uappexplorer.com/?sort=relevance&search=avisoftware')
+                onClicked: Qt.openUrlExternally('https://open-store.io/?sort=relevance&search=author%3AWalter%20Garcia-Fontes')
             }
         }
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-24 22:12+0000\n"
+"POT-Creation-Date: 2018-03-05 12:44+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,10 +47,15 @@ msgid "GPL-3.0 License"
 msgstr "Licenza GPL-3.0"
 
 #: ../app/AboutPage.qml:130
-msgid "Author"
-msgstr "Autore"
+msgid "Original Author"
+msgstr ""
 
 #: ../app/AboutPage.qml:147
+#, fuzzy
+msgid "Current Author"
+msgstr "Autore"
+
+#: ../app/AboutPage.qml:164
 msgid "My other apps"
 msgstr "Altre mie apps"
 
@@ -73,7 +78,8 @@ msgid "Weight statistics"
 msgstr "Statistiche del peso"
 
 #: ../app/ListStatisticsPage.qml:50
-msgid "Avarage weight:"
+#, fuzzy
+msgid "Average weight:"
 msgstr "Peso medio :"
 
 #: ../app/ListStatisticsPage.qml:58
@@ -146,7 +152,7 @@ msgid "No weight today."
 msgstr "Nessun peso oggi."
 
 #: ../app/MainPage.qml:12
-#: /home/avi/qt/ubuntu-touch/weight-tracker-build/po/weight-tracker.desktop.in.h:1
+#: /home/wgarcia/sources/ubports/weight-tracker/build/po/weight-tracker.desktop.in.h:1
 msgid "Weight Tracker"
 msgstr "Statistiche di peso"
 
@@ -434,10 +440,11 @@ msgstr "Il tuo peso è maggiore di quanto raccomandato"
 msgid "Your weight is lower than recommended"
 msgstr "Il tuo peso è inferiore a quanto raccomandato"
 
-#: /home/avi/qt/ubuntu-touch/weight-tracker-build/po/weight-tracker.desktop.in.h:2
+#: /home/wgarcia/sources/ubports/weight-tracker/build/po/weight-tracker.desktop.in.h:2
+#, fuzzy
 msgid ""
 "Weight Tracker is is an app that allows you to track your weight, including "
-"BMI Status."
+"BMI Status and more statistics."
 msgstr ""
-"Weight Tracker è una applicazione che consente di tracciare il proprio peso, incluso "
-"l'indice di massa corporea (IMC)."
+"Weight Tracker è una applicazione che consente di tracciare il proprio peso, "
+"incluso l'indice di massa corporea (IMC)."

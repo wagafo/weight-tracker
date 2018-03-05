@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-23 19:28+0000\n"
+"POT-Creation-Date: 2018-03-05 12:44+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,10 +47,15 @@ msgid "GPL-3.0 License"
 msgstr "Licence GPL-3.0"
 
 #: ../app/AboutPage.qml:130
-msgid "Author"
-msgstr "Auteur"
+msgid "Original Author"
+msgstr ""
 
 #: ../app/AboutPage.qml:147
+#, fuzzy
+msgid "Current Author"
+msgstr "Auteur"
+
+#: ../app/AboutPage.qml:164
 msgid "My other apps"
 msgstr "Mes autres applications"
 
@@ -73,7 +78,8 @@ msgid "Weight statistics"
 msgstr "Statistiques de poids"
 
 #: ../app/ListStatisticsPage.qml:50
-msgid "Avarage weight:"
+#, fuzzy
+msgid "Average weight:"
 msgstr "Poids moyen :"
 
 #: ../app/ListStatisticsPage.qml:58
@@ -146,7 +152,7 @@ msgid "No weight today."
 msgstr "Aucun poids aujourd'hui."
 
 #: ../app/MainPage.qml:12
-#: /home/avi/qt/ubuntu-touch/weight-tracker-build/po/weight-tracker.desktop.in.h:1
+#: /home/wgarcia/sources/ubports/weight-tracker/build/po/weight-tracker.desktop.in.h:1
 msgid "Weight Tracker"
 msgstr "Suivi du poids"
 
@@ -340,7 +346,9 @@ msgstr "Femme"
 
 #: ../app/UserComponent.qml:104
 msgid "It is your first use, insert your details to proceed"
-msgstr "Il s'agit de votre première utilisation, saisissez quelques détails pour continuer"
+msgstr ""
+"Il s'agit de votre première utilisation, saisissez quelques détails pour "
+"continuer"
 
 #: ../app/UserComponent.qml:113
 msgid "Your Name:"
@@ -434,10 +442,11 @@ msgstr "Votre poids est plus haut que recommandé"
 msgid "Your weight is lower than recommended"
 msgstr "Votre poids est plus bas que recommandé"
 
-#: /home/avi/qt/ubuntu-touch/weight-tracker-build/po/weight-tracker.desktop.in.h:2
+#: /home/wgarcia/sources/ubports/weight-tracker/build/po/weight-tracker.desktop.in.h:2
+#, fuzzy
 msgid ""
 "Weight Tracker is is an app that allows you to track your weight, including "
-"BMI Status."
+"BMI Status and more statistics."
 msgstr ""
-"Suivi du poids est une application qui vous permet de suivre votre poids, y compris "
-"votre IMC."
+"Suivi du poids est une application qui vous permet de suivre votre poids, y "
+"compris votre IMC."

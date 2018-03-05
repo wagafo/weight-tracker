@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-28 19:03+0000\n"
+"POT-Creation-Date: 2018-03-05 13:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -51,6 +51,10 @@ msgid "Original Author"
 msgstr ""
 
 #: ../app/AboutPage.qml:147
+msgid "Current Author"
+msgstr ""
+
+#: ../app/AboutPage.qml:164
 msgid "My other apps"
 msgstr ""
 
@@ -70,7 +74,7 @@ msgid "Weight statistics"
 msgstr ""
 
 #: ../app/ListStatisticsPage.qml:50
-msgid "Avarage weight:"
+msgid "Average weight:"
 msgstr ""
 
 #: ../app/ListStatisticsPage.qml:58
