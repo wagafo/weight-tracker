@@ -352,7 +352,7 @@ msgstr "Su edad:"
 
 #: ../app/UserComponent.qml:151
 msgid "Your Height:"
-msgstr "Su peso:"
+msgstr "Su altura:"
 
 #: ../app/UserComponent.qml:169
 msgid "CM"
