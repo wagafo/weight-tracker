@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-05 12:44+0000\n"
-"PO-Revision-Date: 2018-03-01 13:10+0100\n"
+"POT-Creation-Date: 2018-05-27 15:28+0000\n"
+"PO-Revision-Date: 2018-06-16 13:10+0000\n"
 "Last-Translator: advocatux <advocatux@airpost.net>\n"
 "Language-Team: UBports Spanish Team\n"
 "Language: es\n"
@@ -51,9 +51,8 @@ msgid "Original Author"
 msgstr "Autor original"
 
 #: ../app/AboutPage.qml:147
-#, fuzzy
 msgid "Current Author"
-msgstr "Autor original"
+msgstr "Autor actual"
 
 #: ../app/AboutPage.qml:164
 msgid "My other apps"
@@ -78,7 +77,6 @@ msgid "Weight statistics"
 msgstr "Estadísticas de peso"
 
 #: ../app/ListStatisticsPage.qml:50
-#, fuzzy
 msgid "Average weight:"
 msgstr "Peso medio:"
 
@@ -100,15 +98,15 @@ msgstr "Cambios en el peso:"
 
 #: ../app/ListStatisticsPage.qml:102
 msgid "Changes last week"
-msgstr "Cambios la semana pasada"
+msgstr "Cambios en la semana pasada"
 
 #: ../app/ListStatisticsPage.qml:113
 msgid "Changes last month"
-msgstr "Cambios el mes pasado"
+msgstr "Cambios en el mes pasado"
 
 #: ../app/ListStatisticsPage.qml:124
 msgid "Changes last year"
-msgstr "Cambios el año pasado"
+msgstr "Cambios en el año pasado"
 
 #: ../app/ListStatisticsPage.qml:135
 msgid "Changes from start"
@@ -140,7 +138,7 @@ msgstr "LB"
 
 #: ../app/ListWeightPage.qml:11
 msgid "Weight History"
-msgstr "Historial de peso"
+msgstr "Historial del peso"
 
 #: ../app/Main.qml:24
 #, qt-format
@@ -149,7 +147,7 @@ msgstr "Su peso hoy es %1"
 
 #: ../app/Main.qml:25
 msgid "No weight today."
-msgstr "No hay peso hoy."
+msgstr "Ningún peso hoy."
 
 #: ../app/MainPage.qml:12
 #: /home/wgarcia/sources/ubports/weight-tracker/build/po/weight-tracker.desktop.in.h:1
@@ -170,7 +168,7 @@ msgstr "historial"
 
 #: ../app/NewWeightComponent.qml:12
 msgid "Insert new weigth"
-msgstr "Introduzca nuevo peso"
+msgstr "Introducir un nuevo peso"
 
 #: ../app/NewWeightComponent.qml:29
 msgid "Your Weight:"
@@ -178,7 +176,7 @@ msgstr "Su peso:"
 
 #: ../app/NewWeightComponent.qml:31
 msgid "Leave empty to delete weight"
-msgstr "Dejar vacío para borrar peso"
+msgstr "Dejar vacío para borrar el peso"
 
 #: ../app/NewWeightComponent.qml:86
 msgid "Date:"
@@ -264,7 +262,7 @@ msgstr "Mostrar en el sistema métrico"
 
 #: ../app/SettingsView.qml:245 ../app/SettingsView.qml:320
 msgid "Clear History"
-msgstr "Borrar historial"
+msgstr "Limpiar el historial"
 
 #: ../app/SettingsView.qml:277
 msgid "Delete user"
@@ -346,7 +344,7 @@ msgstr "Mujer"
 
 #: ../app/UserComponent.qml:104
 msgid "It is your first use, insert your details to proceed"
-msgstr "Si es su primera vez, introduzca sus detalles para continuar"
+msgstr "Si es su primera vez, introduzca sus datos para continuar"
 
 #: ../app/UserComponent.qml:113
 msgid "Your Name:"
@@ -382,7 +380,7 @@ msgstr "Su último peso desde "
 
 #: ../app/WeightComponent.qml:234
 msgid "Your BMI"
-msgstr "Su BMI (índice de masa corporal)"
+msgstr "Su IMC"
 
 #: ../app/WeightComponent.qml:277
 msgid "Very Severely Underweight"
@@ -444,6 +442,6 @@ msgstr "Su peso es menor que el recomendado"
 msgid ""
 "Weight Tracker is is an app that allows you to track your weight, including "
 "BMI Status and more statistics."
-msgstr ""
-"Monitor de peso es una aplicación que le permite monitorizar su peso, "
-"incluyendo su BMI (índice de masa corporal) y más estadísticas."
+msgstr "" 
+"Monitor de peso es una aplicación que le permite monitorizar su peso, incluyendo "
+"su IMC (índice de masa corporal) y más estadísticas."
