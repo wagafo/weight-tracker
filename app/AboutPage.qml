@@ -61,7 +61,7 @@ Page {
             Label {
                 id: name
                 height: implicitHeight + units.gu(3)
-                text: i18n.tr("Weight Tracker %1 (Beta)").arg("v0.5.1")
+                text: i18n.tr("Weight Tracker %1 (Beta)").arg("v0.5.2")
                 color:Qt.darker( UbuntuColors.green)
                 anchors.horizontalCenter: parent.horizontalCenter
                 textSize: Label.Large
@@ -84,7 +84,7 @@ Page {
                         color:Qt.darker( UbuntuColors.green) }
                     ProgressionSlot {}
                 }
-                onClicked: {Qt.openUrlExternally('https://github.com/avi-software/weight-tracker')}
+                onClicked: {Qt.openUrlExternally('https://github.com/wagafo/weight-tracker')}
             }
 
             ListItem {
@@ -101,7 +101,7 @@ Page {
                         color:Qt.darker( UbuntuColors.green) }
                     ProgressionSlot {}
                 }
-                onClicked: {Qt.openUrlExternally('https://github.com/avi-software/weight-tracker/issues')}
+                onClicked: {Qt.openUrlExternally('https://github.com/wagafo/weight-tracker/issues')}
             }
             ListItem {
                 ListItemLayout {
@@ -127,7 +127,7 @@ Page {
                         SlotsLayout.position: SlotsLayout.Leading;
                         width: units.gu(3)
                     }
-                    title.text: i18n.tr("Author")
+                    title.text: i18n.tr("Original Author")
                     title.color:Qt.darker( UbuntuColors.green)
                     Label { text: "Avi Mar"
                         color:Qt.darker( UbuntuColors.green) }
@@ -135,6 +135,23 @@ Page {
                     ProgressionSlot {}
                 }
                 onClicked: {Qt.openUrlExternally('https://plus.google.com/108896809103329612102')}
+            }
+            ListItem {
+                ListItemLayout {
+                    Icon {
+                        name: "contact"
+                        color: Qt.darker(UbuntuColors.green)
+                        SlotsLayout.position: SlotsLayout.Leading;
+                        width: units.gu(3)
+                    }
+                    title.text: i18n.tr("Current Author")
+                    title.color:Qt.darker( UbuntuColors.green)
+                    Label { text: "Walter Garcia-Fontes"
+                        color:Qt.darker( UbuntuColors.green) }
+
+                    ProgressionSlot {}
+                }
+                onClicked: {Qt.openUrlExternally('http://puna.upf.edu')}
             }
             ListItem {
                 ListItemLayout {
@@ -148,7 +165,7 @@ Page {
                     title.color:Qt.darker( UbuntuColors.green)
                     ProgressionSlot {}
                 }
-                onClicked: Qt.openUrlExternally('scope://com.canonical.scopes.clickstore?q=avisoftware')
+                onClicked: Qt.openUrlExternally('https://open-store.io/?sort=relevance&search=author%3AWalter%20Garcia-Fontes')
             }
         }
 
