@@ -1,15 +1,15 @@
 {
-    "name": "@APP_ID@",
+    "name": "weight-tracker.avisoftware",
     "description": "Weight Tracker is is an app that allows you to track your weight, including BMI Status and more statistics.",
-    "architecture": "@CLICK_ARCH@",
-    "title": "@APP_NAME@",
+    "architecture": "all",
+    "title": "Weight Tracker",
     "hooks": {
         "weight-tracker": {
             "apparmor": "weight-tracker.apparmor",
             "desktop": "weight-tracker.desktop"
         }
     },
-    "version": "0.5.2",
+    "version": "0.5.3",
     "maintainer": "Walter Garcia-Fontes <walter.garcia@upf.edu>",
-    "framework": "ubuntu-sdk-15.04.4"
+    "framework": "ubuntu-sdk-16.04"
 }
