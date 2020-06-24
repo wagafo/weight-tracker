@@ -29,7 +29,7 @@ msgstr "Sledování Hmotnosti %1 (Beta)"
 
 #: ../app/AboutPage.qml:81
 msgid "Source Code"
-msgstr "Source Code"
+msgstr "Zdrojový kód"
 
 #: ../app/AboutPage.qml:83 ../app/AboutPage.qml:100
 msgid "Github"
